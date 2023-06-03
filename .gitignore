@@ -3,5 +3,3 @@
 # not commiting the node_modules folder in any subdirectory
 
 /*/*/*/node_modules
-
-# not commiting the .idea folder
